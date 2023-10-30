@@ -6,7 +6,7 @@ Perfect Auto Warps do exist however, I have chosen not to release them because i
 ## Version Summary
 Perfect Warp 1.0: Had a very crude and rudimentary auto warp formula
 
-Perfect Warp 2.0: Had a more refined and perfect auto warp formula
+Perfect Warp 2.0: Upgraded auto warp formula from Perfect Warp 1.0
 
 Perfect Warp 3.0: Had a new warp formula and 
 
@@ -37,7 +37,7 @@ The script does not work out of the box. There is a setup required with the addi
 8. Open the [Desmos template](https://www.desmos.com/calculator/xzc0pys7an) that I have made for you
 9. Copy the X cords and paste them into the x column with the corresponding warp notch value in the y column.
 10. Right click the script and select edit script
-
+11. Change the "placeholder" for variables a and b to the values given by demos
 
 ## 2
 ### 3
