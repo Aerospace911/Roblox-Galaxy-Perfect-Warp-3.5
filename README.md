@@ -16,13 +16,23 @@ Perfect Warp 5.0: Auto warp with a different warp formula method
 
 Perfect Warp 6.0 Auto warp with a different warp formula method
 
+# Pros and Cons
+### Pros
+* The script tells you how far to warp
+
+### Cons
+* The script is limited to one monitor/window size.
+* Roblox Window must focused during the warp charge
+
 ### NOTICE 
 The script does not work out of the box. There is a setup required with the additional programs included.
 
 # How to use the script in steps
 1. [Download AHK v1.1](https://www.autohotkey.com/)
-2. Download the [latest release](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases) 
-3. Use either clipboardcord.ahk or activecolorcheck.ahk 
+2. Download the [latest release](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases)
+3. Open Galaxy, maximize the screen, and spawn a ship
+4. Push V once to charge warp
+6. Use either clipboardcord.ahk or activecolorcheck.ahk to find the X 
 ## 2
 ### 3
 #### 4
