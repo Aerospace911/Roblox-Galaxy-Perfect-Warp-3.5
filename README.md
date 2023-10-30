@@ -35,8 +35,8 @@ The script does not work out of the box. There is a setup required with the addi
 6. Use either clipboardcord.ahk or activecolorcheck.ahk to find the X
 7. Place your mouse over the center of the notch on the warp bar
 8. Open the [Desmos template](https://www.desmos.com/calculator/xzc0pys7an) that I have made for you
-9. Copy the X cords and paste it into the x column with the corresponding warp notch value in the y column.
-10. 
+9. Copy the X cords and paste them into the x column with the corresponding warp notch value in the y column.
+10. Right click the script and select edit script
 
 
 ## 2
