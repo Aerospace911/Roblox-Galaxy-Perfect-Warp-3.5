@@ -5,7 +5,9 @@ Perfect Auto Warps do exist however, I have chosen not to release them because i
 
 ## Version Summary
 Perfect Warp 1.0: Had a very crude and rudimentary auto warp formula
+
 Perfect Warp 2.0: Had a more refined and perfect auto warp formula
+
 Perfect Warp 3.0: 
 
 ### NOTICE 
