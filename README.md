@@ -3,8 +3,15 @@ With Yname's blessing, I now present to you, Perfect Warp 3.0. The legal version
 
 
 ### NOTICE 
-The script does not work out of the box. There is a setup required.
-# 1
+The script does not work out of the box. There is a setup required with the additional programs included.
+
+# How to use the script in steps
+1. Download [AHK v1.1]([url](https://www.autohotkey.com/)) (https://www.autohotkey.com/)
+
+
+
+
+
 ## 2
 ### 3
 #### 4
