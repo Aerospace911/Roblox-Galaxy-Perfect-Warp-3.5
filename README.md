@@ -8,7 +8,11 @@ Perfect Warp 1.0: Had a very crude and rudimentary auto warp formula
 
 Perfect Warp 2.0: Had a more refined and perfect auto warp formula
 
-Perfect Warp 3.0: 
+Perfect Warp 3.0: Had a new warp formula and 
+
+Perfect Warp 4.0: 
+
+Perfect Warp 5.0: 
 
 ### NOTICE 
 The script does not work out of the box. There is a setup required with the additional programs included.
