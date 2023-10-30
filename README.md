@@ -1,2 +1,2 @@
 # Roblox Galaxy Perfect Warp
-You are warm but not close yet... its somewhere here...
+## NOTICE The script does not work out of the box. There is a set up required
