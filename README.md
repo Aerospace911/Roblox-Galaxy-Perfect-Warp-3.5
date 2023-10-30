@@ -33,7 +33,12 @@ The script does not work out of the box. There is a setup required with the addi
 3. Open Galaxy, maximize the screen, and spawn a ship
 4. Push V once to charge warp
 6. Use either clipboardcord.ahk or activecolorcheck.ahk to find the X
-7. Open the [Desmos template](https://www.desmos.com/calculator/67pnd3metj) that I have made for you 
+7. Place your mouse over the center of the notch on the warp bar
+8. Open the [Desmos template](https://www.desmos.com/calculator/xzc0pys7an) that I have made for you
+9. Copy the X cord and paste it into the x column with the corresponds with the warp notch value.
+10. 
+
+
 ## 2
 ### 3
 #### 4
