@@ -1,5 +1,5 @@
 # Roblox Galaxy Perfect Warp (Legal Version)
-With Yname's blessing, I now present to you, Perfect Warp 3.0. The legal version of Perfect Warp that I have developed in AHK, is a macro-scripting language. This script inputs the distance you want to warp, then it places a line over the warp bar indicating how far to charge warp for a Perfect Warp.
+With Yname's blessing, I now present to you, Perfect Warp 3.0. The legal version of Perfect Warp that I have developed in AHK. Which is a macro-scripting language. This script takes user input of the distance you want to warp, then it places a line over the warp bar indicating how far to charge warp for a Perfect Warp.
 
 Perfect Auto Warps do exist however, I have chosen not to release them because it would make Yname unhappy.
 
@@ -35,7 +35,7 @@ The script does not work out of the box. There is a setup required with the addi
 6. Use either clipboardcord.ahk or activecolorcheck.ahk to find the X
 7. Place your mouse over the center of the notch on the warp bar
 8. Open the [Desmos template](https://www.desmos.com/calculator/xzc0pys7an) that I have made for you
-9. Copy the X cord and paste it into the x column with the corresponds with the warp notch value.
+9. Copy the X cords and paste it into the x column with the corresponding warp notch value in the y column.
 10. 
 
 
