@@ -10,15 +10,19 @@ Perfect Warp 2.0: Had a more refined and perfect auto warp formula
 
 Perfect Warp 3.0: Had a new warp formula and 
 
-Perfect Warp 4.0: 
+Perfect Warp 4.0: I forgor
 
-Perfect Warp 5.0: 
+Perfect Warp 5.0: Auto warp with a different warp formula method
+
+Perfect Warp 6.0 Auto warp with a different warp formula method
 
 ### NOTICE 
 The script does not work out of the box. There is a setup required with the additional programs included.
 
 # How to use the script in steps
 1. [Download AHK v1.1](https://www.autohotkey.com/)
+2. Download the [latest release](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases) 
+3. Use either clipboardcord.ahk or activecolorcheck.ahk 
 ## 2
 ### 3
 #### 4
