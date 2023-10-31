@@ -3,11 +3,11 @@ With Yname's blessing, I now present, Perfect Warp 3.5. The legal version of Per
 
 Perfect Auto Warp Scripts do exist, however I have chosen not to release them because Yname said he would be unhappy.
 
-VVVV
 
-[Download Here](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases)
 
-^^^
+# [Download Here](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases)
+
+
 ### NOTICE 
 The script does not work out of the box. There is a setup required with the additional programs included.
 
@@ -66,7 +66,9 @@ Your Perfect Warp 3.5 setup is complete.
 
 #### Adjusting the script
 14. If you are over-warping, decrease the variable "warpadjust". If you are under warping, increase the variable "warpadjust"
-    
+15. If you want to enter thousands of studs Ex: 17000 -> 17, do the following changes
+![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/56b7e6d4-3b11-49cf-9c3b-0d87d63266c7)
+
 # How to use the script 
 By default, the script is set to the Numpad Plus key. This can of course be changed.
 ![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/faade50c-dae4-4941-b340-cf8029065507)
