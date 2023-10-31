@@ -5,7 +5,7 @@ Perfect Auto Warp Scripts do exist, however I have chosen not to release them be
 
 
 
-# [Download Here](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases)
+# [Click to go to Downloads](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases)
 
 
 ### NOTICE 
