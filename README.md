@@ -35,7 +35,7 @@ Perfect Warp 6.0 Auto warp script with a new method.
 2. Download the [latest release](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases)
 3. Open Galaxy, maximize the screen, and spawn a ship
 4. Push V once to charge warp
-6. Use either clipboardcord.ahk or activecolorcheck.ahk to find the X
+6. Use either clipboardcord.ahk or activecolorcheck.ahk to find cords
 7. Place your mouse over the center of the notch on the warp bar
 8. Open the [Desmos template](https://www.desmos.com/calculator/xzc0pys7an) that I have made for you
 9. Copy the X cords and paste them into the x column with the corresponding warp notch value in the y column
