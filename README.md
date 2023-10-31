@@ -39,6 +39,8 @@ Perfect Warp 6.0 Auto warp script with a new method.
 7. Place your mouse over the center of the notch on the warp bar
 8. Open the [Desmos template](https://www.desmos.com/calculator/xzc0pys7an) that I have made for you
 9. Copy the X cords and paste them into the x column with the corresponding warp notch value in the y column
+![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/8de05d3c-1a15-4ce9-b01f-67f4d6005c03)
+
 10. Right-click the script and select edit script
 11. Change the "placeholder" for variables "a" and "b" to the values given by demos
     
