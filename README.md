@@ -36,7 +36,7 @@ Perfect Warp 6.0 Auto warp script with a new method.
 * The script is limited to one monitor/window size.
 
 # How to setup the script in steps
-1. [Download AHK v1.1](https://www.autohotkey.com/) ###NOTE AHK 2.0 WILL NOT WORK
+1. [Download AHK v1.1](https://www.autohotkey.com/) ###NOTE AHK 2.0 WILL NOT WORK###
 2. Download the [latest release](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases)
 3. Open Galaxy, maximize the screen, and spawn a ship
 4. Push V once to charge warp
@@ -61,6 +61,7 @@ Perfect Warp 6.0 Auto warp script with a new method.
 
 
 13. Get the x and y cords for the green "activate" and place them in activatex and activatey respectively
+###NOTE IT IS IMPORTANT YOUR TOOL SAYS Color: 0x007700
 ![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/322206ef-2bb5-461f-8509-52009bc748c5)
 ![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/5e1a271b-be7a-4a5e-97dc-3158b3dcff79)
 
