@@ -39,21 +39,25 @@ Perfect Warp 6.0 Auto warp script with a new method.
 7. Place your mouse over the center of the notch on the warp bar
 8. Open the [Desmos template](https://www.desmos.com/calculator/xzc0pys7an) that I have made for you
 9. Copy the X coords and paste them into the x column with the corresponding warp notch value in the y column
-![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/8de05d3c-1a15-4ce9-b01f-67f4d6005c03)
-![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/ef41b089-0c5d-4668-97d5-f4cd456099e6)
+![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/ecff1c1e-9231-4e8f-bf5c-e4ede599cb22)
+![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/4489d1b5-443a-4b2a-9800-1a270d0a4b48)
+
 
 10. Right-click the script and select edit script
 11. Change the "placeholder" for variables "a" and "b" to the values given by Demos
     
-![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/96f12112-88cd-4208-8950-c9daca27d636)
-![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/3fe03f9d-8c8d-4b4c-994b-4a9e7e7eb64b)
+![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/775b3316-40e0-48e6-bfc6-f31beecd8ca2)
+![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/f90bf662-065b-4002-a31d-c08b1a49b208)
+
 
 12. Get the y coord for the center of the warp bar and replace the "placeholder" in "centerY" variable in the script
-![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/b10fd600-8602-46bf-b21a-652f170aa878)
-![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/cac1337c-0905-4244-9305-42e4b4fdb2f7)
+![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/f006b98e-fb80-47fa-a0f6-e2ee64676037)
+![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/c05bddd9-5d02-403b-8a49-44c6e7227293)
+
 
 13. Get the x and y cords for the green "activate" and place them in activatex and activatey respectively
-![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/492fc474-649f-404a-ab75-4a2368911da0)
+![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/322206ef-2bb5-461f-8509-52009bc748c5)
+
 ![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/ee9bce54-81d0-47b4-b870-459ca9334905)
 
 Your Perfect Warp 3.5 setup is complete.
