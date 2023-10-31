@@ -66,7 +66,7 @@ Your Perfect Warp 3.5 setup is complete.
     
 # How to use the script 
 By default, the script is set to the Numpad Plus key. This can of course be changed.
-![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/372c1db8-57e8-4af9-a930-22ca9d69a845)
+![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/faade50c-dae4-4941-b340-cf8029065507)
 Once you press the key, type out the full distance ex: 17000 and press enter.
 Once you push "V" and the warp bar appears, the script will place a line on the warp bar indicating the designated distance.
 
