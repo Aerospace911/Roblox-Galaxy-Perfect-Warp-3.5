@@ -13,10 +13,12 @@ The script does not work out of the box. There is a setup required with the addi
 
 ## Version Summary
 Perfect Warp 1.0: Auto warp script with a very crude and rudimentary warp formula found using maptheformula.ahk.
+https://www.youtube.com/watch?v=9VXAjGIwf68
 
 Perfect Warp 2.0: Upgraded/Refined auto warp script from Perfect Warp 1.0 using maptheformula.ahk.
 
 Perfect Warp 3.0: Manual warp script that derived its formula from how fast the warp charge bar measured in pixels per second using Mapthebar.ahk.
+https://www.youtube.com/watch?v=9VXAjGIwf68
 
 Perfect Warp 3.5: Manual warp script based on Perfect Warp 5.0.
 
