@@ -41,6 +41,7 @@ Perfect Warp 6.0 Auto warp script with a new method.
 9. Copy the X cords and paste them into the x column with the corresponding warp notch value in the y column
 10. Right-click the script and select edit script
 11. Change the "placeholder" for variables "a" and "b" to the values given by demos
+    
 ![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/96f12112-88cd-4208-8950-c9daca27d636)
 ![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/3fe03f9d-8c8d-4b4c-994b-4a9e7e7eb64b)
 13. Get the y cord for the center of the warp bar and replace the "placeholder" in "centerY" variable in the script
