@@ -40,13 +40,16 @@ Perfect Warp 6.0 Auto warp script with a new method.
 10. Right-click the script and select edit script
 11. Change the "placeholder" for variables "a" and "b" to the values given by demos
 12. Get the y cord for the center of the warp bar and replace the "placeholder" in "centerY" variable in the script
+13. Get the x and y cords for the green "activate" and place them in activatex and activatey respectively
 Your Perfect Warp 3.5 setup is complete
 
 #### Adjusting the script
-13. If you are over warping, decrease the variable "warpadjust". If you are under warping, increase the variable "warpadjust"
+13. If you are over-warping, decrease the variable "warpadjust". If you are under warping, increase the variable "warpadjust"
 
-## 2
-### 3
-#### 4
-##### 5
-###### 5
+# How to use the script 
+By default, the script is set to the Numpad Plus key. This can of course be changed.
+![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/372c1db8-57e8-4af9-a930-22ca9d69a845)
+Once you press the key, type out the full distance ex: 17000 and press enter.
+Once you push "V" and the warp bar appears, the script will place a line on the warp bar indicating the designated distance.
+
+
