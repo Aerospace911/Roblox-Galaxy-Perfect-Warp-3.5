@@ -2,12 +2,10 @@
 With Yname's blessing, I now present, Perfect Warp 3.5. The legal version of Perfect Warp that I have developed in AHK. Which is a macro-scripting language. This script takes user input of the distance you want to warp, then it places a line over the warp bar indicating how far to charge warp for a Perfect Warp.
 
 Perfect Auto Warp Scripts do exist, however I have chosen not to release them because Yname said he would be unhappy.
-<!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Here")]([https://github.com/ic3w0lf22/Roblox-Account-Manager/releases/download/3.6.1/Roblox.Account.Manager.3.6.1.zip](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases/download/v3.5/Perfect.Warp.3.5.zip))
-<!-- END LATEST DOWNLOAD BUTTON -->
-or
-[Download Here](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases)
 
+VVVV
+[Download Here](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases)
+^^^
 ### NOTICE 
 The script does not work out of the box. There is a setup required with the additional programs included.
 
