@@ -3,7 +3,7 @@ With Yname's blessing, I now present to you, Perfect Warp 3.5. The legal version
 
 Perfect Auto Warps do exist however, I have chosen not to release them because it would make Yname unhappy.
 
-[Download Here](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases/new)
+[Download Here](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases)
 
 ### NOTICE 
 The script does not work out of the box. There is a setup required with the additional programs included.
