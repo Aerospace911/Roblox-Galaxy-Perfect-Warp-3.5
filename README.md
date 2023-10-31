@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=9VXAjGIwf68
 Perfect Warp 2.0: Upgraded/Refined auto warp script from Perfect Warp 1.0 using maptheformula.ahk.
 
 Perfect Warp 3.0: Manual warp script that derived its formula from how fast the warp charge bar measured in pixels per second using Mapthebar.ahk.
-https://www.youtube.com/watch?v=9VXAjGIwf68
+https://www.youtube.com/watch?v=zVjFWrcXWIg
 
 Perfect Warp 3.5: Manual warp script based on Perfect Warp 5.0.
 
