@@ -3,6 +3,8 @@ With Yname's blessing, I now present to you, Perfect Warp 3.5. The legal version
 
 Perfect Auto Warps do exist however, I have chosen not to release them because it would make Yname unhappy.
 
+[Download Here](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/releases/new)
+
 ### NOTICE 
 The script does not work out of the box. There is a setup required with the additional programs included.
 
@@ -52,4 +54,6 @@ By default, the script is set to the Numpad Plus key. This can of course be chan
 Once you press the key, type out the full distance ex: 17000 and press enter.
 Once you push "V" and the warp bar appears, the script will place a line on the warp bar indicating the designated distance.
 
-
+# Troubleshooting
+1. Press Ctrl + Alt + R. This reloads the program
+2. If you still have issues or need help setting up, make an issue on the [issues page](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/issues/new)
