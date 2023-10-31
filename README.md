@@ -44,15 +44,17 @@ Perfect Warp 6.0 Auto warp script with a new method.
     
 ![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/96f12112-88cd-4208-8950-c9daca27d636)
 ![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/3fe03f9d-8c8d-4b4c-994b-4a9e7e7eb64b)
-13. Get the y cord for the center of the warp bar and replace the "placeholder" in "centerY" variable in the script
+
+12. Get the y cord for the center of the warp bar and replace the "placeholder" in "centerY" variable in the script
 ![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/b10fd600-8602-46bf-b21a-652f170aa878)
-15. Get the x and y cords for the green "activate" and place them in activatex and activatey respectively
+
+13. Get the x and y cords for the green "activate" and place them in activatex and activatey respectively
 ![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/492fc474-649f-404a-ab75-4a2368911da0)
 
 Your Perfect Warp 3.5 setup is complete
 
 #### Adjusting the script
-13. If you are over-warping, decrease the variable "warpadjust". If you are under warping, increase the variable "warpadjust"
+14. If you are over-warping, decrease the variable "warpadjust". If you are under warping, increase the variable "warpadjust"
 
 # How to use the script 
 By default, the script is set to the Numpad Plus key. This can of course be changed.
