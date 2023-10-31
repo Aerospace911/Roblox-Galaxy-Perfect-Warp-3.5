@@ -47,9 +47,11 @@ Perfect Warp 6.0 Auto warp script with a new method.
 
 12. Get the y cord for the center of the warp bar and replace the "placeholder" in "centerY" variable in the script
 ![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/b10fd600-8602-46bf-b21a-652f170aa878)
+![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/cac1337c-0905-4244-9305-42e4b4fdb2f7)
 
 13. Get the x and y cords for the green "activate" and place them in activatex and activatey respectively
 ![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/492fc474-649f-404a-ab75-4a2368911da0)
+![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/ee9bce54-81d0-47b4-b870-459ca9334905)
 
 Your Perfect Warp 3.5 setup is complete
 
