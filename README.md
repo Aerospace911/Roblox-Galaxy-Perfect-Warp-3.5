@@ -1,5 +1,5 @@
 # Roblox Galaxy Perfect Warp 3.5 ~~(Legal Version)~~
-~~With Yname's blessing, I now present, Perfect Warp 3.5. The legal version of Perfect Warp that I have developed in AHK. Which is a macro-scripting language. This script takes user input of the distance you want to warp, then it places a line over the warp bar indicating how far to charge warp for a Perfect Warp.~~
+~~With Yname's blessing, I now present, Perfect Warp 3.5. The legal version of Perfect Warp that I have developed in AHK.~~ Which is a macro-scripting language. This script takes user input of the distance you want to warp, then it places a line over the warp bar indicating how far to charge warp for a Perfect Warp.
 
 ~~Perfect Auto Warp Scripts do exist, however I have chosen not to release them because Yname said he would be unhappy.~~
 
