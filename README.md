@@ -42,7 +42,7 @@ Perfect Warp 6.0 Auto warp script with a new method.
 4. Push V once to charge warp
 6. Use either clipboardcord.ahk or activecolorcheck.ahk to find coords
 7. Place your mouse over the center of the notch on the warp bar
-8. Open the [Desmos template](https://www.desmos.com/calculator/xzc0pys7an) that I have made for you
+8. Open the [Desmos template](https://www.desmos.com/calculator/segzzgs1gi) that I have made for you
 9. Copy the X coords and paste them into the x column with the corresponding warp notch value in the y column
 ![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/ecff1c1e-9231-4e8f-bf5c-e4ede599cb22)
 ![image](https://github.com/ORB-Aerospace911/Roblox-Galaxy-Perfect-Warp/assets/79132854/4489d1b5-443a-4b2a-9800-1a270d0a4b48)
