@@ -12,10 +12,10 @@ Perfect Warp 3.5 Also Known as The Manual Pefect Warp was specifcally a neutered
 The script does not work out of the box. There is a setup required with the additional programs included.
 
 ## Version Summary
-Perfect Warp 1.0: Auto warp script with a very crude and rudimentary warp formula found using maptheformula.ahk.
+Perfect Warp 1.0: Auto warp script with a very crude and rudimentary timer-based warp formula found using maptheformula.ahk.
 https://www.youtube.com/watch?v=9VXAjGIwf68
 
-Perfect Warp 2.0: Upgraded/Refined auto warp script from Perfect Warp 1.0 using maptheformula.ahk.
+Perfect Warp 2.0: Auto warp script from Perfect Warp 1.0 with a refined timer-based warp formula using maptheformula.ahk.
 
 Perfect Warp 3.0: Manual warp script that derived its formula from how fast the warp charge bar measured in pixels per second using Mapthebar.ahk.
 https://www.youtube.com/watch?v=zVjFWrcXWIg
@@ -24,9 +24,12 @@ Perfect Warp 3.5: Manual warp script based on Perfect Warp 5.0.
 
 Perfect Warp 4.0: Auto warp script version Perfect Warp 3.0.
 
-Perfect Warp 5.0: Auto warp script based on warp bar notches and its respective coordinates.
+Perfect Warp 5.0: Auto warp script that derives it's formula from graphing the pixel to distance relation.
 
-Perfect Warp 6.0 Auto warp script with a new method.
+Perfect Warp 6.0 Auto warp script with a timer-based formula using a new method that never went past the testing phase.
+
+Perfect Warp 7.0 Manual warp script with a timer-based formula that was made a joke using a beat drop to indicate when to warp.
+https://www.youtube.com/watch?v=CQJeLEvHMtM
 
 # Pros and Cons
 ### Pros
