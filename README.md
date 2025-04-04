@@ -1,5 +1,8 @@
 # Roblox Galaxy Perfect Warp 3.5 ~~(Legal Version)~~
 
+# BEING CAUGHT USING THIS SCRIPT AND DISTRIBUTING IS A BANNABLE OFFENSE. 
+## Learn how to stay hidden at [Roblox-Galaxy-Xanbelor-s-Perfect-Warp-6.1.1](https://github.com/Aerospace911/Roblox-Galaxy-Xanbelor-s-Perfect-Warp-6.1.1)
+
 ## IMPORTANT NOTE: A HIGHIER VERSION NUMBER DOES NOT MEAN IT'S BETTER. IT ONLY SIGNIFIES A DIFFERENT METHOD.
 
 ~~With Yname's blessing, I now present, Perfect Warp 3.5. The legal version of Perfect Warp that I have developed in AHK.~~ Which is a macro-scripting language. This script takes user input of the distance you want to warp, then it places a line over the warp bar indicating how far to charge warp for a Perfect Warp.
